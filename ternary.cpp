@@ -13,6 +13,7 @@ int countBits(int n){
   }
 int main()
 {
+  //here n is 20
   int n=20;
   //n%7==0? "yes":"no
   cout<<countBits(n);
